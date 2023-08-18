@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "defi-396312",
+  "private_key_id": "58fa6b26fbbb52c58451b7e0886504901f4f8bda",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDUvNxe4c68WsuJ\n7hvXVLyFPJewetCu1eZIf4L/dTrLM+E+QiwlLaXqXcbWaPZ934rEzkRbsX9NRJDu\nc6ukVJrAfUb3zLpIf1ePJhZGDm6sPhCR5iNXuEQx80PnADBmFqyUi1AhWIzzeWZl\nC8W2PfCpoCX7hDDiImVd6TbXnKRQwJbPbWWI/+BtB3/6Xc+fN/yJVVfzbPr3vixI\nYEpOv814zEsI/7/B9FFCvIEUTaOaXVI6DGX+Jfc+tQ2EM20GUMWVdzTT9tumJOLp\nSFPZcvZHAWXQZoRL8mIGT4Si6NUemNTLS2mtMBtA5sEFXfsMQ5Bh5MOzEzBmojbD\n5Ei82MoPAgMBAAECggEAC8MbbhWPECP2//vNx0SUnctBWc0Yj6oc7uI59HTfWM/Y\nAtC2zyFsfH5N2Zn5EvGSoxoCdo1kS/ngB4cWtOHGoqDqlRXZMNv1k+EXtyziGpzd\n3qs6RgXWo2pfVTzR8DsNtLLVLdrPBEEwk6KoflCDZ2WG5Bale0NKlnwn/5jWDu7V\nM5iFFOGv8HTNRjcd6Ba+JDnPe3aPwUhorOFw1eK38GqHRGWibBvlnw7ddQ8XHsUb\nWBWuNNejwjXOkjd4IZ9f6x1E8SijxGe5lD5cqt2e2i2ayeZVJixz/Ixu7y1LIyph\n7GZ9p+mazl/eH7o6U0qHLXE7TGlYxAj0pE1eS1hAiQKBgQDzZgrxL5TIxzntTQFi\nt4KRBcBYuNYFba9Olo1cqkzCTz4M1upCZNXWilT2ohonWc4pVRljqLgsTzoVM30k\nc+vykiZfaKSx40zh33Op7eghtcnIKNaokauDde8a0G2awoU/pNn2Za2NctsnXUyU\n3lHEZne0J/yE+DR2CAf7Yx6LtwKBgQDfwHHqDxxmqNLtEpMimijqlIGNtd7mko9P\nfb8qlxe9r2d6gCi4IJW4XZW+qWkhnkKjSCPXzQPGfsD21Him9CM5EUqKtkZVoayX\nPguQpYsP7WsfOeeaIPWTSU72y9wID1Be3vygbnR6qQMxZ+SadYXzsIIY7fz502g6\nzHZrCzJkaQKBgEAe5MkPIOIX4gHK5I+OCp6L5lU5NGCvuZw5ezorPxd9arpVL9eX\n2uGvBZ0HrV4qgW5QFeU0QHij0ohdTR16UHFR4TwHREP8vndOt5jPrPScgHDzmUFF\nRurV+cyVlhpMHnBazHTl6me2F1fyc0dQnjfgSq6yTgr1nFRv3zJxtU1XAoGBALuZ\neuknqkRYoCCtRjfo0Q19XfIW3sCreQTJBZMMA5fCjRwkf/+BMobV0Et/dun86xpD\nzemNtvCiLd/F3TL91tpuKPWMRgRd/XsBRmkMoz/Da+FOh2Su5beL62z5F46aaGRi\nyaUpdvew5UBzPzRR/PGIuEt2nnhITEegTlkJlkKhAoGBAMbHLSVje1BiwDOT2FBZ\nf/FyoMuTqgeAXeg+LTlZs1BgzX+xo6peP1eD5+HEsR7xD0eKp3c5QBHBkKK8uasX\nnzukD0rLl0c6vQVgWqo5yLAbr/bPCu0phddqkpTM49MWiWpmSvUTOhTpoZr2deGc\nTrlIFzOwnoYi0SXnap7/Lgek\n-----END PRIVATE KEY-----\n",
+  "client_email": "openocean@defi-396312.iam.gserviceaccount.com",
+  "client_id": "108393721685407446476",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/openocean%40defi-396312.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
